@@ -1,4 +1,4 @@
-package io.github.brunosam;
+package io.github.samrox2006;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
